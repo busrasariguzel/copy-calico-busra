@@ -9,5 +9,13 @@ img {
 }
 
 .item1{
-    color:red;
+    color:black;
+}
+
+.item2 {
+    color: grey;
+    opacity:50%;
+    
+
+
 }
