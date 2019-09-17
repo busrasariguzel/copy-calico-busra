@@ -1,18 +1,13 @@
-#header1 {
-color: black
+.table1 {
+    text-align: left;
+    margin-left: 100px;
 }
 
-#header2 {
-opacity: 50%;
-color: grey;
-display:inline-block;
+img {
+    position: relative;
+    left: 300px;
 }
 
-.container > p {
-display:inline-block;
-font-size: 10px;
+.item1{
+    color:red;
 }
-
-/* .container > div {
-color:
-} /*
