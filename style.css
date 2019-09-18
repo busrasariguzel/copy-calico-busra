@@ -2,7 +2,7 @@
     text-align: left;
     margin-left: 30px;
     font-style: initial;
-    font-size: 13px;
+    font-size: 12px;
 }
 td:hover {
     color:  black;
@@ -29,5 +29,8 @@ img {
 .plus {
 margin-left: 100px;
 
+}
+.sub {
+font-size: 7px;
 
 }
