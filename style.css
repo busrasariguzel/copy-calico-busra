@@ -16,9 +16,10 @@ padding: 4px;
 }
 img {
 position: relative;
-left: 300px;
-width:719px;
-height:426px;
+left: 180px;
+width:950px;
+height:561px;
+margin-top:-10px;
 }
 
 .item1{
@@ -33,6 +34,7 @@ height:426px;
 
 .plus {
 margin-left: 100px;
+font-size: 12px;
 
 }
 .sub {
