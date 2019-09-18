@@ -1,20 +1,24 @@
 .table1 {
-    text-align: left;
-    margin-left: 260px;
-    font-style: initial;
-    font-size: 12px;
-    margin-right: 200px;
+text-align: left;
+margin-left: 260px;
+font-style: initial;
+font-size: 12px;
+margin-right: 260px;
+
 }
 td:hover {
     color:  black;
 
 }
 
+td {
+padding: 4px;
+}
 img {
-    position: relative;
-    left: 300px;
-    width:719px;
-    height:426px;
+position: relative;
+left: 300px;
+width:719px;
+height:426px;
 }
 
 .item1{
