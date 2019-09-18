@@ -1,7 +1,12 @@
 .table1 {
     text-align: left;
     margin-left: 30px;
-    font-style: initial
+    font-style: initial;
+    font-size: 14px;
+}
+td:hover {
+    color:  black;
+    
 }
 
 img {
